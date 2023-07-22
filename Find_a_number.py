@@ -1,5 +1,5 @@
 
-x=int(input("enter a number less than ten: "))
+x=int(input("enter a number less than five: "))
 if x==1:
     print("one")
 elif x==2:
